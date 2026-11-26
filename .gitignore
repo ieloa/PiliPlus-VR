@@ -1,0 +1,24 @@
+# Exclude all APKs, signatures, and build outputs
+*.apk
+*.idsig
+dist/
+build/
+
+# Exclude decompiled artifacts, prebuilt binaries, tools, and dependencies
+apktool/
+prebuilt/
+tools/
+deps/
+
+# Exclude signing certificates and keystores
+cert/
+
+# Exclude checksums of excluded artifacts
+Source_SHA256SUMS.txt
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml

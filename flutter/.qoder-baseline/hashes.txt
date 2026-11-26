@@ -1,0 +1,6 @@
+5114f48cb923d58e6b1a98a291d823b31e8430ac *android/app/src/main/kotlin/com/example/piliplus/vr/VrPlayerActivity.kt
+8fdcaec418ceb04b20fbab59a02fc01d7c8aa13a *android/app/src/main/kotlin/com/example/piliplus/vr/VrBridgePlugin.kt
+ee3da52faf9bdd7086964aa19cecabc40e7eaa28 *android/app/src/main/kotlin/com/example/piliplus/vr/VrRenderer.kt
+54e3ba97970c32f81306a1230c0a2542dd1f27e8 *lib/services/vr_service.dart
+8782e949c81683547ae3c4ea4eb5f36e8661d2be *android/app/src/main/AndroidManifest.xml
+f9cd50517a1d0d982f49dd56b569f0007c4f9805 *android/app/build.gradle.kts
