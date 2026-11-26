@@ -49,3 +49,9 @@ rebuild.bat
 ```cmd
 adb install -r --no-incremental PiliPlus_VR_rebuilt.apk
 ```
+
+## 5. 开源协议与声明
+
+- **开源协议**：本项目沿用与上游 PiliPlus 一致的 **[GNU General Public License v3.0 (GPL-3.0)](LICENSE)** 协议开源。你可在遵守 GPL-3.0 条款的前提下自由使用、修改与分发本源码；任何基于本项目的修改或衍生版本均需保留版权声明、注明修改记录并以 GPL-3.0 开源。本软件按“现状”提供，不附带任何明示或默示担保。
+- **上游致敬与修改说明**：本项目（PiliPlus VR）基于 [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) 修改开发（于 2026 年 11 月新增 Meta Quest 3 OpenXR VR 渲染层、AI 3D 实时深度、OpenXR 弹幕同步及手势追踪等功能），同时致敬上游项目 [orz12/PiliPalaX](https://github.com/orz12/PiliPalaX) 与原作者 [guozhigq/pilipala](https://github.com/guozhigq/pilipala)。
+- **免责声明**：本项目仅用于个人兴趣、学习与技术研究，不提供任何破解或侵权内容，与 Bilibili 官方及原版 PiliPlus 作者无直接隶属关系；请遵守相关平台服务条款与法律法规。
